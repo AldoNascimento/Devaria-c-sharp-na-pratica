@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TesteVariavelConstante": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}

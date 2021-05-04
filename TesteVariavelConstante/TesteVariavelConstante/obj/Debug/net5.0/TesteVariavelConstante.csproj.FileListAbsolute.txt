@@ -1,0 +1,16 @@
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.exe
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.deps.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.runtimeconfig.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.runtimeconfig.dev.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\ref\TesteVariavelConstante.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\bin\Debug\net5.0\TesteVariavelConstante.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.csprojAssemblyReference.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.AssemblyInfoInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.AssemblyInfo.cs
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.csproj.CoreCompileInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\ref\TesteVariavelConstante.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\TesteVariavelConstante\TesteVariavelConstante\obj\Debug\net5.0\TesteVariavelConstante.genruntimeconfig.cache

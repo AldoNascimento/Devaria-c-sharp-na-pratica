@@ -1,0 +1,16 @@
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.csprojAssemblyReference.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.AssemblyInfoInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.AssemblyInfo.cs
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.exe
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.deps.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.runtimeconfig.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.runtimeconfig.dev.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ref\ListaDeProdutos.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\bin\Debug\net5.0\ListaDeProdutos.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ref\ListaDeProdutos.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeProdutos\obj\Debug\net5.0\ListaDeProdutos.genruntimeconfig.cache

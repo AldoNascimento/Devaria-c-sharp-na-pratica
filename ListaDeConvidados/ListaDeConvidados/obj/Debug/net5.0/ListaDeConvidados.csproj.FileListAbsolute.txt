@@ -1,0 +1,16 @@
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.exe
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.deps.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.runtimeconfig.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.runtimeconfig.dev.json
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ref\ListaDeConvidados.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\bin\Debug\net5.0\ListaDeConvidados.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.csprojAssemblyReference.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.AssemblyInfoInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.AssemblyInfo.cs
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.csproj.CoreCompileInputs.cache
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ref\ListaDeConvidados.dll
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.pdb
+C:\Users\aldop\OneDrive\DOCUMENTOS NOTEBOOK\DEVARIA\GIT DEVARIA\devaria-c-sharp\ListaDeConvidados\ListaDeConvidados\obj\Debug\net5.0\ListaDeConvidados.genruntimeconfig.cache
